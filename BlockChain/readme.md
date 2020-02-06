@@ -16,7 +16,7 @@
 
 ## Let's start ! ##
 
-This is obsolete
+**This is obsolete**
 
 This lab is composed of a series of steps.  Your instructor will inform you which sequence will be run in your lab.
 
